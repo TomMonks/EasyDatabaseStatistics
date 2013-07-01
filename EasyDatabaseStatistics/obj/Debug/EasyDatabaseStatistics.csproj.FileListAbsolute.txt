@@ -1,0 +1,15 @@
+\\isad.isadroot.ex.ac.uk\UOE\User\Visual Studio 2012\Projects\EasyDatabaseStatistics\EasyDatabaseStatistics\bin\Debug\EasyDatabaseStatistics.exe.config
+\\isad.isadroot.ex.ac.uk\UOE\User\Visual Studio 2012\Projects\EasyDatabaseStatistics\EasyDatabaseStatistics\bin\Debug\EasyDatabaseStatistics.exe
+\\isad.isadroot.ex.ac.uk\UOE\User\Visual Studio 2012\Projects\EasyDatabaseStatistics\EasyDatabaseStatistics\bin\Debug\EasyDatabaseStatistics.pdb
+\\isad.isadroot.ex.ac.uk\UOE\User\Visual Studio 2012\Projects\EasyDatabaseStatistics\EasyDatabaseStatistics\bin\Debug\CustomGUI.dll
+\\isad.isadroot.ex.ac.uk\UOE\User\Visual Studio 2012\Projects\EasyDatabaseStatistics\EasyDatabaseStatistics\bin\Debug\EasyDatabase.dll
+\\isad.isadroot.ex.ac.uk\UOE\User\Visual Studio 2012\Projects\EasyDatabaseStatistics\EasyDatabaseStatistics\bin\Debug\Statistics.dll
+\\isad.isadroot.ex.ac.uk\UOE\User\Visual Studio 2012\Projects\EasyDatabaseStatistics\EasyDatabaseStatistics\bin\Debug\CustomGUI.pdb
+\\isad.isadroot.ex.ac.uk\UOE\User\Visual Studio 2012\Projects\EasyDatabaseStatistics\EasyDatabaseStatistics\bin\Debug\EasyDatabase.pdb
+\\isad.isadroot.ex.ac.uk\UOE\User\Visual Studio 2012\Projects\EasyDatabaseStatistics\EasyDatabaseStatistics\bin\Debug\Statistics.pdb
+\\isad.isadroot.ex.ac.uk\UOE\User\Visual Studio 2012\Projects\EasyDatabaseStatistics\EasyDatabaseStatistics\obj\Debug\EasyDatabaseStatistics.Form1.resources
+\\isad.isadroot.ex.ac.uk\UOE\User\Visual Studio 2012\Projects\EasyDatabaseStatistics\EasyDatabaseStatistics\obj\Debug\EasyDatabaseStatistics.Properties.Resources.resources
+\\isad.isadroot.ex.ac.uk\UOE\User\Visual Studio 2012\Projects\EasyDatabaseStatistics\EasyDatabaseStatistics\obj\Debug\EasyDatabaseStatistics.csproj.GenerateResource.Cache
+\\isad.isadroot.ex.ac.uk\UOE\User\Visual Studio 2012\Projects\EasyDatabaseStatistics\EasyDatabaseStatistics\obj\Debug\EasyDatabaseStatistics.exe
+\\isad.isadroot.ex.ac.uk\UOE\User\Visual Studio 2012\Projects\EasyDatabaseStatistics\EasyDatabaseStatistics\obj\Debug\EasyDatabaseStatistics.pdb
+\\isad.isadroot.ex.ac.uk\UOE\User\Visual Studio 2012\Projects\EasyDatabaseStatistics\EasyDatabaseStatistics\obj\Debug\EasyDatabaseStatistics.csprojResolveAssemblyReference.cache

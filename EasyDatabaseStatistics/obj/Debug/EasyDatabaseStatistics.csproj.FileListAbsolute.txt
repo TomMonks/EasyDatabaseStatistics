@@ -13,3 +13,7 @@
 \\isad.isadroot.ex.ac.uk\UOE\User\Visual Studio 2012\Projects\EasyDatabaseStatistics\EasyDatabaseStatistics\obj\Debug\EasyDatabaseStatistics.exe
 \\isad.isadroot.ex.ac.uk\UOE\User\Visual Studio 2012\Projects\EasyDatabaseStatistics\EasyDatabaseStatistics\obj\Debug\EasyDatabaseStatistics.pdb
 \\isad.isadroot.ex.ac.uk\UOE\User\Visual Studio 2012\Projects\EasyDatabaseStatistics\EasyDatabaseStatistics\obj\Debug\EasyDatabaseStatistics.csprojResolveAssemblyReference.cache
+\\isad.isadroot.ex.ac.uk\UOE\User\Visual Studio 2012\Projects\EasyDatabaseStatistics\EasyDatabaseStatistics\bin\Debug\DataVisualisation.dll
+\\isad.isadroot.ex.ac.uk\UOE\User\Visual Studio 2012\Projects\EasyDatabaseStatistics\EasyDatabaseStatistics\bin\Debug\DataVisualisation.pdb
+\\isad.isadroot.ex.ac.uk\UOE\User\Visual Studio 2012\Projects\EasyDatabaseStatistics\EasyDatabaseStatistics\obj\Debug\EasyDatabaseStatistics.VisualQueryBuilder.resources
+\\isad.isadroot.ex.ac.uk\UOE\User\Visual Studio 2012\Projects\EasyDatabaseStatistics\EasyDatabaseStatistics\obj\Debug\EasyDatabaseStatistics.ExplorationPanel.resources
